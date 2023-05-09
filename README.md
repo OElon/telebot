@@ -1,4 +1,4 @@
-# chatgpt_telegram_bot
+# Telebot
 This repository contains the code for a Telegram bot that uses OpenAI's GPT-3 API to generate responses in natural language. Written in Python and uses the Flask web framework to handle incoming requests from Telegram's bot API.
 
 This repository presents a reimplementation of ChatGPT using the GPT-3.5 LLM model as a Telegram Bot. The result is a fast and reliable experience.
